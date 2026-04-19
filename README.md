@@ -193,4 +193,4 @@ For questions, issues, or feature requests, please open an issue on GitHub or co
 
 ---
 
-**Built with ❤️ by the Codebasics team**
+**Built by Tirth J Dalal
